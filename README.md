@@ -44,7 +44,7 @@ general del ecosistema Vulkan.
 
 ---
 
-##🛠️randing
+## Branding
 
 **Vision Turnip Engine**
 
