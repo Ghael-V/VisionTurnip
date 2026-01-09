@@ -1,0 +1,13 @@
+{
+  "name": "Vision Turnip",
+  "version": "1.6",
+  "description": "Vision Turnip — Custom Turnip Mesa 26.0.0-Devel. Precision-tuned, depth-fixed, bias-refined. Optimized for Adreno 830.",
+  "author": "Ghael",
+  "branding": "Vision Turnip Engine",
+  "changelog": "Depth clamp overhaul. Conservative bias tuning. TOTK shadows perfected. Echoes stability improved.",
+  "type": "driver",
+  "arch": "arm64-v8a",
+  "api": "vulkan",
+  "minApi": 26,
+  "maxApi": 34
+}
