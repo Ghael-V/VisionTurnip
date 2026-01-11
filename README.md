@@ -42,6 +42,7 @@ Nota: La versión estable no implica que todo vaya a funcionar correctamente, si
 ## Autor
 
 **Ghael**
+
 https://discord.gg/NjntXVzSH
 
 ---
