@@ -1,4 +1,4 @@
-# Vision Turnip — Adreno 8XX (Snapdragon 8 Eilite Gen 3) Custom Driver
+# Vision Turnip — Adreno Custom Driver
 
 **Vision Turnip** es un fork personalizado del driver Turnip (Mesa 26.0.0-devel),
 diseñado para ofrecer mayor estabilidad, precisión y calidad visual.
