@@ -35,11 +35,14 @@ general del ecosistema Vulkan.
 
 **1.6 — Stable**
 
+Nota: La versión estable no implica que todo vaya a funcionar correctamente, si no que la versión del fork es estable, los hacks se han aplicado al driver y funciona correctamente dentro de las limitaciones de la versión en la que está basado.
+
 ---
 
 ## Autor
 
 **Ghael**
+https://discord.gg/NjntXVzSH
 
 ---
 
@@ -60,3 +63,5 @@ Consulta la sección **Releases** para obtener el paquete listo para instalar.
 Este driver está optimizado para estabilidad y precisión en el pipeline de profundidad.
 Algunas cargas de trabajo extremadamente complejas pueden depender de rutas del compilador
 IR3 que aún no están completamente maduras en hardware reciente.
+
+Actualmente el driver no funciona correctamente en el chip Adreno 830 y muchos sistemas recurren automáticamente mediante rollback al driver oficial Qualcomm, razón por la cual algunas personas mencionan que les ha mejorado sus juegos y otros muchos indican que "no han notado diferencia alguna".
